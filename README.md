@@ -3,7 +3,7 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
   <br />
-  Recriando a PlaystationStore
+  Recriando a Playstation Store
 </h1>
 
   <!-- project badges -->
@@ -19,7 +19,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src= "../assets/BlogPreview.png" width="600" alt="preview" />
+      <img src= "assets/BlogPreview.png" width="600" alt="preview" />
   	</a>
 </div>
 
@@ -39,7 +39,7 @@
       Request Feature
     </a>
 		<h2> Clique aqui e acesse a Aplicação </h2>
-		<a href="https://pequeno-playstation-store.vercel.app/" target="_blank"> Blog em Angular </a> 
+		<a href="https://pequeno-playstation-store.vercel.app/" target="_blank"> Recriação da Playstation Store </a> 
   </p>
 </div>
 

@@ -1,27 +1,49 @@
-# PlaystationStore
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
+  <br />
+  Recriando a PlaystationStore
+</h1>
 
-## Development server
+  <!-- project badges -->
+  <p align="center">
+    <img 
+        src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
+        alt="Code With Angular">
+   	<img 
+      alt="GitHub license" 
+      src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
+    >
+  </p> 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+  	<a href="#">
+      <img src= "../assets/BlogPreview.png" width="600" alt="preview" />
+  	</a>
+</div>
 
-## Code scaffolding
+  <!-- project description and menu -->
+  <p align="center">
+      Preview da recriação
+    <br />
+    <br />
+    <br />
+    <a 
+      href="https://github.com/BrunoPequeno/Playstation-store/issues">
+      Report Bug
+    </a>
+    ·
+    <a 
+      href="https://github.com/BrunoPequeno/Playstation-store/issues/new">
+      Request Feature
+    </a>
+		<h2> Clique aqui e acesse a Aplicação </h2>
+		<a href="https://pequeno-playstation-store.vercel.app/" target="_blank"> Blog em Angular </a> 
+  </p>
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Tecnologia e técnicas
+- [x] Esse projeto foi desenvolvido utilizando a tecnologia Angular e todos os seus benefícios disponibilizados para o bom desenvolvimento de um programador. Utilizamos fragmentação de componentes (micro e macro), bem como estruturação e padronização de projeto, trazendo mais conforto para futuras manutenções ou alterações.
+## Feedback
+- Foi muito legal desenvolver um projeto já com uma complexidade bem mais ampla do que estavamos acostumados, mas ao longo das diversas aulas fomos aprendendo e aprofundando um pouco mais em cada conceito gradativamente, o que eliminou aquele primeiro impacto e diminuiu a dificuldade no desenvolvimento. Agradeço mais uma vez a [DIO](www.dio.me) e ao [Santander](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) pela oportunidade! 

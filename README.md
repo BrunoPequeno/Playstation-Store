@@ -19,7 +19,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src= "assets/BlogPreview.png" width="600" alt="preview" />
+      <img src= "assets/Preview-git.png" width="600" alt="preview" />
   	</a>
 </div>
 
